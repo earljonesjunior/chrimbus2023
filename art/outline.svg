@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="outline.svg"
+   inkscape:export-filename="outline.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +27,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.4588797"
-     inkscape:cx="-98.418806"
-     inkscape:cy="196.22758"
+     inkscape:zoom="3.477381"
+     inkscape:cx="37.240671"
+     inkscape:cy="75.487847"
      inkscape:window-width="3410"
      inkscape:window-height="1375"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3">
+     inkscape:current-layer="layer3"
+     inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        id="grid10"
        units="mm"
@@ -362,8 +366,8 @@
      id="g155"
      inkscape:label="Layer 1 copy 1"
      style="display:inline"
-     sodipodi:insensitive="true"
-     transform="translate(-54.484241,-49.480393)">
+     transform="translate(-54.484241,-49.480393)"
+     sodipodi:insensitive="true">
     <g
        id="g154"
        style="display:inline"
