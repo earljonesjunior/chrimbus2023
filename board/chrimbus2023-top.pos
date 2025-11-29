@@ -1,0 +1,29 @@
+### Footprint positions - created on 2024-11-17T15:37:20-0700 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                               PosX       PosY       Rot  Side
+C1        1uF              C_0402_1005Metric                                   4.9784    16.0528    0.0000  top
+C2        1uF              C_0402_1005Metric                                   3.2004    18.3642  -90.0000  top
+C3        1uF              C_0402_1005Metric                                   5.4636    20.3454    0.0000  top
+C4        1uF              C_0402_1005Metric                                  -5.1900    19.7100    0.0000  top
+C5        1uF              C_0402_1005Metric                                   4.2900    32.2600  180.0000  top
+C6        1uF              C_0402_1005Metric                                   5.2100    27.0100    0.0000  top
+C7        1uF              C_0402_1005Metric                                  -6.1214    25.4254  -90.0000  top
+C8        0.1uF            C_0402_1005Metric                                   4.7900    28.6600  -90.0000  top
+C9        0.1uF            C_0402_1005Metric                                   2.1400    21.2600    0.0000  top
+C10       1uF              C_0402_1005Metric                                   7.7400    44.0900  -90.0000  top
+C11       1uF              C_0402_1005Metric                                  -1.5100    39.2600    0.0000  top
+C12       1uF              C_0402_1005Metric                                   7.7900    46.7600  180.0000  top
+D1        LED              LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder       0.0775    56.2100  180.0000  top
+G1        SJK_2NXX         Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm    -6.4008    22.1234  180.0000  top
+R1        10K              R_0402_1005Metric                                   4.7900    30.6200   90.0000  top
+R2        12K              R_0402_1005Metric                                  -4.7498    25.4274  -90.0000  top
+R3        10K              R_0402_1005Metric                                  -5.4500    28.8600  180.0000  top
+R4        10K              R_0402_1005Metric                                  -2.5146    23.0906  -90.0000  top
+R5        10K              R_0402_1005Metric                                  -4.6100    31.0600  180.0000  top
+U1        TLV7111833DDSER  WSON-6_1.5x1.5mm_P0.5mm                             4.9784    18.2880   90.0000  top
+U2        USBLC6-2P6       SOT-666                                            -0.7325    17.3600   90.0000  top
+U3        USB2240          QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias     0.2296    27.8882   90.0000  top
+U4        eMMC             BGA153C50P14X14_1100X1000X80                        0.2400    47.0100   90.0000  top
+## End
